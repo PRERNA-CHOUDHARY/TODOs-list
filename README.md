@@ -11,10 +11,10 @@ ToDo list is a simple web application to Note down Your daily tasks in order not
 
 ### Languages/frame-work used:
 
-* *HTML  
-* *CSS
-* *JavaScript
-* *BootStrap
+* HTML  
+* CSS
+* JavaScript
+* BootStrap
 
 ### Website Link
 https://prerna-choudhary.github.io/TODOs-list/to-do-list.html
